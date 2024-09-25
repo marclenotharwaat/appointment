@@ -48,6 +48,9 @@ class OnBoardingScreen extends StatelessWidget {
                               borderRadius: BorderRadius.circular(16)))),
                       child: Text(
                         "Get Started",
+
+
+                        
                         style: TextStyles.font16White500width,
                       ),
                     )
